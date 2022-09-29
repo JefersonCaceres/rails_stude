@@ -1,0 +1,10 @@
+---
+es:
+  hello: "Hola Mundo"
+  users:
+    form: 
+      age: "Años" 
+      description: "Descripcion"
+      last_name: "Apellido"
+      name: "Nombre"
+      phone: "Telefono"
